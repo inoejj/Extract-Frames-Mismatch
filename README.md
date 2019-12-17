@@ -8,7 +8,7 @@ As you can see below there are two gifs. The red dot shows when there is a disag
 ![Computer Prediction](/images/video1_computer_prediction.gif)
 
 ### Human scoring
-![Human Scoring](/images/Video2_no_frameHuman Prediction.gif)
+![Human Scoring](/images/Video2_Human_Prediction.gif)
 
 ## Tutorial
 
