@@ -1,6 +1,6 @@
 # Extract-Frames-Mismatch
 
-This script compares the classifier that a human labeled and the machine's prediction and extract the frames when there is a disagreement.
+This script compares the classifier that a human labeled and the machine's prediction and extract the frames when there is a disagreement. Then a human can look at the extracted frames to judge if it is a human error or machine error.
 
 ## Tutorial
 
