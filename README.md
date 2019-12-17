@@ -4,6 +4,8 @@ This script compares the classifier that a human labeled and the machine's predi
 
 As you can see below there are two gifs. The red dot shows when there is a disagreement. Who do you think is correct? The machine or the human scorer? 
 
+![Computer Prediction](/images/video1_computer_prediction.gif)
+
 ## Tutorial
 
 1. First go to [https://osf.io/jnsft/](https://osf.io/jnsft/) to download the sample .csv file and the videos.
