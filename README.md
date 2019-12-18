@@ -10,7 +10,7 @@ As you can see below there are two gifs. The red dot shows when there is a disag
 ### Human scoring
 ![Human Scoring](/images/Video2_Human_Prediction.gif)
 
-## Tutorial
+## Getting started
 
 1. First go to [https://osf.io/jnsft/](https://osf.io/jnsft/) to download the sample .csv file and the videos.
 
