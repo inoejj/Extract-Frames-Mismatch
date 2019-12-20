@@ -5,7 +5,7 @@ This script compares the classifier that a human scored and the machine's predic
 As you can see below there are two gifs. The red dot shows when there is a disagreement. Who do you think is correct? The machine or the human scorer? 
 
 ### Random forest prediction
-![Computer Prediction](/images/video1_computer_prediction.gif)
+![Computer Prediction](/images/video2_computer_prediction.gif)
 
 ### Human scoring
 ![Human Scoring](/images/Video2_Human_Prediction.gif)
